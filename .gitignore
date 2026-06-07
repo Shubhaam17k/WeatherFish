@@ -17,4 +17,7 @@ build/
 .meteo_cache*
 .DS_Store
 
-google credential.txt
+# JetBrains IDE
+.idea/
+
+*google credential.txt
